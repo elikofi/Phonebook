@@ -1,0 +1,15 @@
+/Users/elijahamoako/Projects/phonebook/phonebook/bin/Debug/net6.0/PhonebookConsoleApp
+/Users/elijahamoako/Projects/phonebook/phonebook/bin/Debug/net6.0/PhonebookConsoleApp.deps.json
+/Users/elijahamoako/Projects/phonebook/phonebook/bin/Debug/net6.0/PhonebookConsoleApp.runtimeconfig.json
+/Users/elijahamoako/Projects/phonebook/phonebook/bin/Debug/net6.0/PhonebookConsoleApp.dll
+/Users/elijahamoako/Projects/phonebook/phonebook/bin/Debug/net6.0/PhonebookConsoleApp.pdb
+/Users/elijahamoako/Projects/phonebook/phonebook/obj/Debug/net6.0/PhonebookConsoleApp.csproj.AssemblyReference.cache
+/Users/elijahamoako/Projects/phonebook/phonebook/obj/Debug/net6.0/PhonebookConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elijahamoako/Projects/phonebook/phonebook/obj/Debug/net6.0/PhonebookConsoleApp.AssemblyInfoInputs.cache
+/Users/elijahamoako/Projects/phonebook/phonebook/obj/Debug/net6.0/PhonebookConsoleApp.AssemblyInfo.cs
+/Users/elijahamoako/Projects/phonebook/phonebook/obj/Debug/net6.0/PhonebookConsoleApp.csproj.CoreCompileInputs.cache
+/Users/elijahamoako/Projects/phonebook/phonebook/obj/Debug/net6.0/PhonebookConsoleApp.dll
+/Users/elijahamoako/Projects/phonebook/phonebook/obj/Debug/net6.0/refint/PhonebookConsoleApp.dll
+/Users/elijahamoako/Projects/phonebook/phonebook/obj/Debug/net6.0/PhonebookConsoleApp.pdb
+/Users/elijahamoako/Projects/phonebook/phonebook/obj/Debug/net6.0/PhonebookConsoleApp.genruntimeconfig.cache
+/Users/elijahamoako/Projects/phonebook/phonebook/obj/Debug/net6.0/ref/PhonebookConsoleApp.dll
